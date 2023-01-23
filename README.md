@@ -2,7 +2,8 @@
 
 Tech : React & Tailwind
 
-Disgn : bit.ly/Porto-Aldi
-Website : aldipriyanto.rendycahyae.my.id
+Design : [Figma](https://bit.ly/Porto-Aldi/)
+
+Website : https://aldipriyanto.rendycahyae.my.id
 
 
